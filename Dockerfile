@@ -1,6 +1,6 @@
 # Base OS
-FROM bryanayers/centos7-mono
-MAINTAINER bryanayers+dockerfile@gmail.com
+FROM incendonet/centos7-mono
+MAINTAINER info@incendonet.com
 
 # Env setup
 ENV HOME /root
